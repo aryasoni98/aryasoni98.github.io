@@ -148,3 +148,19 @@ Finally, make sure GitHub Pages option in your GitHub project settings is set to
 | Mild dark      | ![#37393E](https://via.placeholder.com/10/37393E?text=+) `#37393E` |
 | Jet Black      | ![#000000](https://via.placeholder.com/10/000000?text=+) `#000000` |
 | Light          | ![#F4F4F5](https://via.placeholder.com/10/F4F4F5?text=+) `#F4F4F5` |
+
+## ❤️ Project Admin
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/aryasoni98">
+				<img src="./public/aryasoni.jpeg" width="100px" alt="" />
+				<br /> <sub><b>Arya Soni</b></sub>
+			</a>
+			<br /> <a href="https://github.com/aryasoni98">
+		👑 Admin
+	    </a>
+		</td>
+	</tr>
+</table>
