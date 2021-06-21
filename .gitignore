@@ -1,0 +1,12 @@
+
+node_modules
+.next
+.vscode
+yarn.lock
+out
+.env
+.idea
+
+
+# Ignore Mac DS_Store files
+.DS_Store
