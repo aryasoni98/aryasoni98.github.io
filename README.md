@@ -21,6 +21,13 @@ yarn
 OR
 
 npm install
+
+# Create a .env file from .env.example
+
+REACT_APP_GITHUB_TOKEN = <TOKEN>
+GITHUB_USERNAME = <GITHUB_USERNAME>
+USE_GITHUB_DATA = "true"
+
 # Start Next.js development server
 yarn dev
 
@@ -43,6 +50,12 @@ yarn
 OR
 
 npm install
+
+# Create a .env file from .env.example
+
+REACT_APP_GITHUB_TOKEN = <TOKEN>
+GITHUB_USERNAME = <GITHUB_USERNAME>
+USE_GITHUB_DATA = "true"
 
 # Build HTML files
 yarn build
@@ -163,4 +176,17 @@ Finally, make sure GitHub Pages option in your GitHub project settings is set to
 	    </a>
 		</td>
 	</tr>
+</table>
+
+## Contributors ✨
+
+<table>
+	 <tr>
+		 <td>
+       <a href="https://github.com/aryasoni98/aryasoni98.github.io/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=aryasoni98/aryasoni98.github.io" />
+      </a>
+      </a>
+		</td>
+  </tr>
 </table>
