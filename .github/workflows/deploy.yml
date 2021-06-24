@@ -38,10 +38,9 @@ jobs:
         NEXT_PUBLIC_BASE_PATH:
     - run: touch ./out/.nojekyll
     
-    - name: Deploy to GitHub Pages
-         uses: JamesIves/github-pages-deploy-action@4.1.4
-  
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@4.1.4
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: out
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: out # The folder the action should deploy.
