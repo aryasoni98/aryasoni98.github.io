@@ -47,7 +47,7 @@ export const ProjectBox = styled('div', {
   flexDirection: 'column',
   background: '#232222',
   width: 350,
-  height: 300,
+  height: 350,
   padding: 30,
   color: '$main2',
   fontFamily: '$mono',

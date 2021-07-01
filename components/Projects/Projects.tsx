@@ -21,6 +21,13 @@ const AboutComponent: React.FC = () => {
       link: 'https://github.com/aryasoni98/AI-Interview',
       github: 'aryasoni98/AI-Interview',
     },
+    {
+      title: 'Codetrophs',
+      description: 'CodeTrophs is an open source platform targeted solely for beginners to help them contribute to real life projects, develop new ideas and to explore the world of open sourcing.',
+      tags: 'React | Node | MongoDB | REST API',
+      link: 'https://github.com/CodeTrophs',
+      github: 'https://github.com/CodeTrophs/Frontend',
+    },
   ]
 
   return (
@@ -36,8 +43,8 @@ const AboutComponent: React.FC = () => {
                 <S.ProjectHeader>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="48"
-                    height="48"
+                    width="50"
+                    height="50"
                     viewBox="0 0 24 24"
                     fill="none"
                     stroke="#F4F4F5"

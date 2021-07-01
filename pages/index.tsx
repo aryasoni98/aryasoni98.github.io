@@ -21,7 +21,7 @@ const Home: React.FC = () => {
   return (
     <ContentWrapper>
       <Navbar location="portfolio" />
-      <Head title="Home" />
+      <Head title="Arya Soni" />
       <Cursor />
       <SmoothScroll />
       <HomeComponent />
