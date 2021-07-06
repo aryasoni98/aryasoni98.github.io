@@ -9,6 +9,7 @@ import BiometricAuth from './../../public/Biometric_Auth.png'
 import ToDoList from './../../public/ToDoList.png'
 import MaskDetection from './../../public/MaskDetection.png'
 import Face from './../../public/3DFace.png'
+import TextScan from './../../public/TextScan.png'
 
 interface Projects {
   title: string
@@ -52,6 +53,14 @@ const AboutComponent: React.FC = () => {
       skills: 'Swift | SwiftUI',
       github: 'ToDo-List',
       link: 'https://github.com/aryasoni98/ToDo-List',
+    },
+    {
+      title: 'Text Scan',
+      image: TextScan,
+      description: 'A scene text recognition demo app using Vision framework and tesseract.',
+      skills: 'Swift | SwiftUI',
+      github: 'TextScan',
+      link: 'https://github.com/aryasoni98/TextScan',
     },
   ]
 
